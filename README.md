@@ -21,10 +21,12 @@
   * [ada-boost-classifier](https://github.com/npackr/ada-boost-classifier)
   * [mt-booking](https://github.com/npackr/mt-booking)
   
-## Contact me
+## 📫 Contact me
 * You can find my social network profile link on [npackr.com](https://npackr.com)
 * Also adding my QQ: 3321583214 or Wechat: npackr for 闲聊, hhhhh : )))
-* Or just mailing me for a joke: [mateng@npackr.com](mailto:mateng@npackr.com) or npackr@hotmail.com
+* Or just mailing me for a joke :>
+  * [mateng@npackr.com](mailto:mateng@npackr.com)
+  * [npackr@hotmail.com](mailto:npackr@hotmail.com) 
 
 ## 💖 Thank you for visiting my GitHub ^^
 
