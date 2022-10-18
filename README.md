@@ -20,7 +20,7 @@
   * [iris-kmeans-clustering](https://github.com/npackr/iris-kmeans-clustering)
   * [ada-boost-classifier](https://github.com/npackr/ada-boost-classifier)
   * [mt-booking](https://github.com/npackr/mt-booking)
-  
+  * [madaica-discord-bot](https://madaica.npackr.com)
 ## 📫 Contact me
 * You can find my social network profile link on [npackr.com](https://npackr.com)
 * Also adding my QQ: 3321583214 or Wechat: npackr for 闲聊, hhhhh : )))
