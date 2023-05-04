@@ -2,7 +2,7 @@
 
 * VI - Chào cậu, tớ là Kiệt và tớ sinh năm 2000 ~
 * EN - Hello! I'm Kiet, from Vietnam and born on 2000.
-* CH - 你好老铁，我叫马腾，零零年生的，程序员谈不上，一个学生罢了，很高兴认识你 【狗头】
+* CH - 你好老铁，我叫马腾，零零年生的，程序员谈不上，很高兴认识你 【狗头】
 
 ## 🔭 About my life
 
